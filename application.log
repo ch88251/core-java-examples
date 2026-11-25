@@ -1,0 +1,5 @@
+2026-11-24 08:00:00 INFO Application started
+2026-11-24 08:01:00 INFO Connected to IBM MQ
+2026-11-24 08:02:00 ERROR Connection timed out
+2026-11-24 08:03:00 INFO Reconnecting
+2026-11-24 08:04:00 ERROR Authentication failed
